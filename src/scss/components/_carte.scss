@@ -1,0 +1,17 @@
+.carte{
+  width: 352px;
+  height: 367px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
+
+  font-size: 18px;
+
+  background-color: var(--couleure-blanche);
+
+}

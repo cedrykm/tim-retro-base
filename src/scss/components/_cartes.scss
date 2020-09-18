@@ -1,0 +1,12 @@
+.cartes{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+
+  padding: 30px 100px 0;
+}
+
+.cartes img{
+  width: 50%;
+  height: 50%;
+}
